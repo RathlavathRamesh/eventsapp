@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.EventsCOntainer {
+  display: flex;
+  flex-direction: row;
+}
+.Items_card {
+  display: flex;
+  flex-direction: column;
+  background-color: #323f4b;
+  height: 100vh;
+  margin: 0px;
+  width: 60vw;
+  padding: 10px;
+}
+.itemdsCont {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.heading {
+  color: #f8fafc;
+  font-family: Roboto;
+}
+.Detailscard {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}

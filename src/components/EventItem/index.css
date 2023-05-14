@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.item {
+  list-style-type: none;
+}
+* {
+  margin-left: 1vh;
+}
+.image {
+  height: 15vh;
+  margin: 1vh;
+}
+.name {
+  font-size: 15px;
+  color: #f8fafc;
+}
+.location {
+  color: #ffffff;
+  font-size: 13px;
+}

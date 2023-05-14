@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.activePara {
+  color: #64748b;
+  font-size: 16px;
+}
+.done {
+  height: 36vh;
+}
+.ram {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.success {
+  color: #475569;
+  font-size: 19px;
+  text-align: center;
+}
+.para {
+  color: #64748b;
+}
+.button {
+  background-color: #0967d2;
+  height: 6vh;
+  width: 20vw;
+  color: #ffffff;
+  border-width: 0px;
+  border-radius: 6px;
+}
